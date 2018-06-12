@@ -10,6 +10,7 @@ You also need to accept the [challenge](https://www.kaggle.com/c/freesound-audio
 
 # Dependencies
 
+- Docker 18.*
 - Python 3
 - pip
 
