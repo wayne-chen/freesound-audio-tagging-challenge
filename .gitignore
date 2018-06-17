@@ -2,3 +2,12 @@
 
 #macOS
 .DS_Store
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+kaggle.json

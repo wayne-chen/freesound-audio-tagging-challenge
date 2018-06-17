@@ -1,0 +1,5 @@
+kaggle
+librosa
+keras
+theano
+jupyter
