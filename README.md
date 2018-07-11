@@ -4,21 +4,9 @@ Through Kaggle.
 
 # Requirements
 
-You must place kaggle.json API key from your [account](https://www.kaggle.com/<username>/account) to the folder ~/.kaggle in order to run `kaggle` commands through terminal.
+You must place kaggle.json API key from your [account](https://www.kaggle.com/<username>/account) to the folder ~/.kaggle in order to copy to certain experiments.
 You also need to accept the [challenge](https://www.kaggle.com/c/freesound-audio-tagging/data) as well.
-
 
 # Dependencies
 
 - Docker 18.*
-- Python 3
-- pip
-
-# Install
-
-
-
-- `python3 -m venv .venv`
-- `source .venv/bin/activate`
-- `python3 -m pip install -r requirements.txt`
-- `kaggle competitions download -c freesound-audio-tagging -p .`
