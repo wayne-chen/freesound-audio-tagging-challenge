@@ -1,0 +1,6 @@
+[submodule "keunwoo-feature-extractor/kapre"]
+	path = keunwoo-feature-extractor/kapre
+	url = https://github.com/keunwoochoi/kapre.git
+[submodule "keunwoo-feature-extractor/transfer_learning_music"]
+	path = keunwoo-feature-extractor/transfer_learning_music
+	url = https://github.com/keunwoochoi/transfer_learning_music
